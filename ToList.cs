@@ -1,8 +1,8 @@
 using System.Linq;
-using System.Collections;
+using System.Collections.Generic;
 public class ToList {
   public static void Main() {
-    RangeIterator range = Enumerable.Range(1, 10);
+    IEnumerable<int> range = Enumerable.Range(1, 10);
     
     List<int> toList = range.ToList();
   }
