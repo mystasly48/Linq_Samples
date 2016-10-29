@@ -1,6 +1,24 @@
 # LINQ Samples
 
-### (Alphabetical order)
+| メソッド名 | 説明 | リンク |
+|:---:|:---|:---|
+| Average | 要素の平均値を返す | [Average.cs](https://github.com/mystasly/Linq_Samples/blob/master/Average.cs) |
+| Count | 要素数を返す | [Count.cs](https://github.com/mystasly/Linq_Samples/blob/master/Count.cs) |
+| Distinct | 重複を除いて返す | [Distinct.cs](https://github.com/mystasly/Linq_Samples/blob/master/Distinct.cs) |
+| ElementAt | 指定した位置の要素を返す | [ElementAt.cs](https://github.com/mystasly/Linq_Samples/blob/master/ElementAt.cs) |
+| First | 最初の要素を返す | [First.cs](https://github.com/mystasly/Linq_Samples/blob/master/First.cs) |
+| Last | 最後の要素を返す | [Last.cs](https://github.com/mystasly/Linq_Samples/blob/master/Last.cs) |
+| Max | 最大の要素を返す | [Max.cs](https://github.com/mystasly/Linq_Samples/blob/master/Max.cs) |
+| Min | 最小の要素を返す | [Min.cs](https://github.com/mystasly/Linq_Samples/blob/master/Min.cs) |
+| Range | 指定した範囲の数値を返す | [Range.cs](https://github.com/mystasly/Linq_Samples/blob/master/Range.cs) |
+| Select | うんち | [Select.cs](https://github.com/mystasly/Linq_Samples/blob/master/Select.cs) |
+| Single | 唯一の要素を返す | [Single.cs](https://github.com/mystasly/Linq_Samples/blob/master/Single.cs) |
+| Skip | 指定数スキップした要素を返す | [Skip.cs](https://github.com/mystasly/Linq_Samples/blob/master/Skip.cs) |
+| Sum | 全要素の合計値を返す | [Sum.cs](https://github.com/mystasly/Linq_Samples/blob/master/Sum.cs) |
+| Take | 指定数の要素を返す | [Take.cs](https://github.com/mystasly/Linq_Samples/blob/master/Take.cs) |
+| ToArray | 配列にして返す | [ToArray.cs](https://github.com/mystasly/Linq_Samples/blob/master/ToArray.cs) |
+| ToList | リスト配列にして返す | [ToList.cs](https://github.com/mystasly/Linq_Samples/blob/master/ToList.cs) |
+| Where | うんち | [Where.cs](https://github.com/mystasly/Linq_Samples/blob/master/Where.cs) |
 
 - [Average](https://github.com/mystasly48/Linq_Samples/blob/master/Average.cs)
 
