@@ -10,6 +10,7 @@
 | First | 最初の要素を返す | [First.cs](https://github.com/mystasly/Linq_Samples/blob/master/First.cs) |
 | FirstOrDefault | 最初の要素を返す（なかった場合にはデフォルト値を返す） | [FirstOrDefault.cs](https://github.com/mystasly/Linq_Samples/blob/master/FirstOrDefault.cs) |
 | Last | 最後の要素を返す | [Last.cs](https://github.com/mystasly/Linq_Samples/blob/master/Last.cs) |
+| LastOrDefault | 最後の要素を返す（なかった場合にはデフォルト値を返す） | [LastOrDefault.cs](https://github.com/mystasly/Linq_Samples/blob/master/LastOrDefault.cs) |
 | Max | 最大の要素を返す | [Max.cs](https://github.com/mystasly/Linq_Samples/blob/master/Max.cs) |
 | Min | 最小の要素を返す | [Min.cs](https://github.com/mystasly/Linq_Samples/blob/master/Min.cs) |
 | Range | 指定した範囲の数値を返す | [Range.cs](https://github.com/mystasly/Linq_Samples/blob/master/Range.cs) |
