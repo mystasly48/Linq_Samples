@@ -17,6 +17,7 @@
 | Reverse | 要素の順番を逆にして返す | [Reverse.cs](https://github.com/mystasly/Linq_Samples/blob/master/Reverse.cs) |
 | Select | うんち | [Select.cs](https://github.com/mystasly/Linq_Samples/blob/master/Select.cs) |
 | Single | 唯一の要素を返す | [Single.cs](https://github.com/mystasly/Linq_Samples/blob/master/Single.cs) |
+| SingleOrDefault | 唯一の要素を返す（なかった場合にはデフォルト値を返す） | [SingleOrDefault.cs](https://github.com/mystasly/Linq_Samples/blob/master/SingleOrDefault.cs) |
 | Skip | 指定数スキップした要素を返す | [Skip.cs](https://github.com/mystasly/Linq_Samples/blob/master/Skip.cs) |
 | Sum | 全要素の合計値を返す | [Sum.cs](https://github.com/mystasly/Linq_Samples/blob/master/Sum.cs) |
 | Take | 指定数の要素を返す | [Take.cs](https://github.com/mystasly/Linq_Samples/blob/master/Take.cs) |
