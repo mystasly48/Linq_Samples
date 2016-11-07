@@ -8,6 +8,7 @@
 | ElementAt | 指定した位置の要素を返す | [ElementAt.cs](https://github.com/mystasly/Linq_Samples/blob/master/ElementAt.cs) |
 | ElementAtOrDefault | 指定した位置の要素を返す（なかった場合にはデフォルト値を返す） | [ElementAtOrDefault.cs](https://github.com/mystasly/Linq_Samples/blob/master/ElementAtOrDefault.cs) |
 | First | 最初の要素を返す | [First.cs](https://github.com/mystasly/Linq_Samples/blob/master/First.cs) |
+| FirstOrDefault | 最初の要素を返す（なかった場合にはデフォルト値を返す） | [FirstOrDefault.cs](https://github.com/mystasly/Linq_Samples/blob/master/FirstOrDefault.cs) |
 | Last | 最後の要素を返す | [Last.cs](https://github.com/mystasly/Linq_Samples/blob/master/Last.cs) |
 | Max | 最大の要素を返す | [Max.cs](https://github.com/mystasly/Linq_Samples/blob/master/Max.cs) |
 | Min | 最小の要素を返す | [Min.cs](https://github.com/mystasly/Linq_Samples/blob/master/Min.cs) |
