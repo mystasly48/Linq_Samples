@@ -1,0 +1,5 @@
+.vscode/launch.json
+.vscode/tasks.json
+project.json
+project.lock.json
+MethodList.xlsx
