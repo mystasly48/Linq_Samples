@@ -11,6 +11,7 @@
 | Max | 最大の要素を返す | [Max.cs](https://github.com/mystasly/Linq_Samples/blob/master/Max.cs) |
 | Min | 最小の要素を返す | [Min.cs](https://github.com/mystasly/Linq_Samples/blob/master/Min.cs) |
 | Range | 指定した範囲の数値を返す | [Range.cs](https://github.com/mystasly/Linq_Samples/blob/master/Range.cs) |
+| Reverse | 要素の順番を逆にして返す | [Reverse.cs](https://github.com/mystasly/Linq_Samples/blob/master/Reverse.cs) |
 | Select | うんち | [Select.cs](https://github.com/mystasly/Linq_Samples/blob/master/Select.cs) |
 | Single | 唯一の要素を返す | [Single.cs](https://github.com/mystasly/Linq_Samples/blob/master/Single.cs) |
 | Skip | 指定数スキップした要素を返す | [Skip.cs](https://github.com/mystasly/Linq_Samples/blob/master/Skip.cs) |
