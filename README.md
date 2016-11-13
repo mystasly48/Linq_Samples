@@ -2,6 +2,7 @@
 
 | メソッド | 説明 |
 |:---|:---|
+| [All](https://github.com/mystasly48/Linq_Samples/blob/master/All.cs) | すべての要素が条件を満たしているか返す |
 | [Average](https://github.com/mystasly48/Linq_Samples/blob/master/Average.cs) | 要素の平均値を返す |
 | [Contains](https://github.com/mystasly48/Linq_Samples/blob/master/Contains.cs) | 指定した要素が含まれているか返す |
 | [Count](https://github.com/mystasly48/Linq_Samples/blob/master/Count.cs) | 要素数を返す |
