@@ -19,6 +19,7 @@
 | [Range](https://github.com/mystasly48/Linq_Samples/blob/master/Range.cs) | 指定した範囲の数値を返す |
 | [Reverse](https://github.com/mystasly48/Linq_Samples/blob/master/Reverse.cs) | 要素の順番を逆にして返す |
 | [Select](https://github.com/mystasly48/Linq_Samples/blob/master/Select.cs) | （書けるけど説明できない） |
+| [SequenceEqual](https://github.com/mystasly48/Linq_Samples/blob/master/SequenceEqual.cs) | ２つのシーケンスが等しいか返す |
 | [Single](https://github.com/mystasly48/Linq_Samples/blob/master/Single.cs) | 唯一の要素を返す |
 | [SingleOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/SingleOrDefault.cs) | 唯一の要素を返す（なかった場合にはデフォルト値を返す） |
 | [Skip](https://github.com/mystasly48/Linq_Samples/blob/master/Skip.cs) | 指定数スキップした要素を返す |
