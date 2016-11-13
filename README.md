@@ -18,7 +18,7 @@
 | [Min](https://github.com/mystasly48/Linq_Samples/blob/master/Min.cs) | 最小の要素を返す |
 | [Range](https://github.com/mystasly48/Linq_Samples/blob/master/Range.cs) | 指定した範囲の数値を返す |
 | [Reverse](https://github.com/mystasly48/Linq_Samples/blob/master/Reverse.cs) | 要素の順番を逆にして返す |
-| [Select](https://github.com/mystasly48/Linq_Samples/blob/master/Select.cs) | （書けるけど説明できない） |
+| [Select](https://github.com/mystasly48/Linq_Samples/blob/master/Select.cs) | 射影する（雑） |
 | [SequenceEqual](https://github.com/mystasly48/Linq_Samples/blob/master/SequenceEqual.cs) | ２つのシーケンスが等しいか返す |
 | [Single](https://github.com/mystasly48/Linq_Samples/blob/master/Single.cs) | 唯一の要素を返す |
 | [SingleOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/SingleOrDefault.cs) | 唯一の要素を返す（なかった場合にはデフォルト値を返す） |
@@ -27,6 +27,6 @@
 | [Take](https://github.com/mystasly48/Linq_Samples/blob/master/Take.cs) | 指定数の要素を返す |
 | [ToArray](https://github.com/mystasly48/Linq_Samples/blob/master/ToArray.cs) | 配列にして返す |
 | [ToList](https://github.com/mystasly48/Linq_Samples/blob/master/ToList.cs) | リスト配列にして返す |
-| [Where](https://github.com/mystasly48/Linq_Samples/blob/master/Where.cs) | （書けるけど説明できない） |
+| [Where](https://github.com/mystasly48/Linq_Samples/blob/master/Where.cs) | フィルターする（雑） |
 
 **※シーケンスとは配列やリスト配列などの総称です**
