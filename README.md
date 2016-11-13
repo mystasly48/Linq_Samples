@@ -26,3 +26,5 @@
 | [ToArray](https://github.com/mystasly48/Linq_Samples/blob/master/ToArray.cs) | 配列にして返す |
 | [ToList](https://github.com/mystasly48/Linq_Samples/blob/master/ToList.cs) | リスト配列にして返す |
 | [Where](https://github.com/mystasly48/Linq_Samples/blob/master/Where.cs) | （書けるけど説明できない） |
+
+**※シーケンスとは配列やリスト配列などの総称です**
