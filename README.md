@@ -24,6 +24,7 @@
 | [Single](https://github.com/mystasly48/Linq_Samples/blob/master/Single.cs) | 唯一の要素を返す |
 | [SingleOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/SingleOrDefault.cs) | 唯一の要素を返す（なかった場合にはデフォルト値を返す） |
 | [Skip](https://github.com/mystasly48/Linq_Samples/blob/master/Skip.cs) | 指定数スキップした要素を返す |
+| [SkipWhile](https://github.com/mystasly48/Linq_Samples/blob/master/SkipWhile.cs) | 条件が真の間スキップした要素を返す |
 | [Sum](https://github.com/mystasly48/Linq_Samples/blob/master/Sum.cs) | 全要素の合計値を返す |
 | [Take](https://github.com/mystasly48/Linq_Samples/blob/master/Take.cs) | 指定数の要素を返す |
 | [ToArray](https://github.com/mystasly48/Linq_Samples/blob/master/ToArray.cs) | 配列にして返す |
