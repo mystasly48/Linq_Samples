@@ -17,6 +17,7 @@
 | [Max](https://github.com/mystasly48/Linq_Samples/blob/master/Max.cs) | 最大の要素を返す |
 | [Min](https://github.com/mystasly48/Linq_Samples/blob/master/Min.cs) | 最小の要素を返す |
 | [Range](https://github.com/mystasly48/Linq_Samples/blob/master/Range.cs) | 指定した範囲の数値を返す |
+| [Repeat](https://github.com/mystasly48/Linq_Samples/blob/master/Repeat.cs) | 指定した回数繰り返して返す |
 | [Reverse](https://github.com/mystasly48/Linq_Samples/blob/master/Reverse.cs) | 要素の順番を逆にして返す |
 | [Select](https://github.com/mystasly48/Linq_Samples/blob/master/Select.cs) | 射影する（雑） |
 | [SequenceEqual](https://github.com/mystasly48/Linq_Samples/blob/master/SequenceEqual.cs) | ２つのシーケンスが等しいか返す |
