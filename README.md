@@ -27,6 +27,7 @@
 | [SkipWhile](https://github.com/mystasly48/Linq_Samples/blob/master/SkipWhile.cs) | 条件が真の間スキップした要素を返す |
 | [Sum](https://github.com/mystasly48/Linq_Samples/blob/master/Sum.cs) | 全要素の合計値を返す |
 | [Take](https://github.com/mystasly48/Linq_Samples/blob/master/Take.cs) | 指定数の要素を返す |
+| [TakeWhile](https://github.com/mystasly48/Linq_Samples/blob/master/TakeWhile.cs) | 条件が真の間要素を取得して返す |
 | [ToArray](https://github.com/mystasly48/Linq_Samples/blob/master/ToArray.cs) | 配列にして返す |
 | [ToList](https://github.com/mystasly48/Linq_Samples/blob/master/ToList.cs) | リスト配列にして返す |
 | [Where](https://github.com/mystasly48/Linq_Samples/blob/master/Where.cs) | フィルターする（雑） |
