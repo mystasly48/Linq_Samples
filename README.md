@@ -32,6 +32,7 @@
 | [TakeWhile](https://github.com/mystasly48/Linq_Samples/blob/master/TakeWhile.cs) | 条件が真の間要素を取得して返す |
 | [ToArray](https://github.com/mystasly48/Linq_Samples/blob/master/ToArray.cs) | 配列にして返す |
 | [ToList](https://github.com/mystasly48/Linq_Samples/blob/master/ToList.cs) | リスト配列にして返す |
+| [Union](https://github.com/mystasly48/Linq_Samples/blob/master/Union.cs) | ２つのシーケンスの和集合を返す |
 | [Where](https://github.com/mystasly48/Linq_Samples/blob/master/Where.cs) | フィルターする（雑） |
 
 ※シーケンスとは配列やリスト配列などの総称です  
