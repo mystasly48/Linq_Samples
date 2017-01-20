@@ -5,6 +5,7 @@
 | [All](https://github.com/mystasly48/Linq_Samples/blob/master/All.cs) | すべての要素が条件を満たしているか返す |
 | [Any](https://github.com/mystasly48/Linq_Samples/blob/master/Any.cs) | 要素が存在するか、または条件を満たす要素が存在するか返す |
 | [Average](https://github.com/mystasly48/Linq_Samples/blob/master/Average.cs) | 要素の平均値を返す |
+| [Concat](https://github.com/mystasly48/Linq_Samples/blob/master/Concat.cs) | ２つのシーケンスを連結 |
 | [Contains](https://github.com/mystasly48/Linq_Samples/blob/master/Contains.cs) | 指定した要素が含まれているか返す |
 | [Count](https://github.com/mystasly48/Linq_Samples/blob/master/Count.cs) | 要素数を返す |
 | [Distinct](https://github.com/mystasly48/Linq_Samples/blob/master/Distinct.cs) | 重複を除いて返す |
