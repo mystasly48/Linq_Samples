@@ -32,6 +32,7 @@
 | [Sum](https://github.com/mystasly48/Linq_Samples/blob/master/Sum.cs) | 全要素の合計値を返す |
 | [Take](https://github.com/mystasly48/Linq_Samples/blob/master/Take.cs) | 指定数の要素を返す |
 | [TakeWhile](https://github.com/mystasly48/Linq_Samples/blob/master/TakeWhile.cs) | 条件が真の間要素を取得して返す |
+| [ThenBy](https://github.com/mystasly48/Linq_Samples/blob/master/ThenBy.cs) | OrderBy後に同一の要素を昇順にして返す |
 | [ToArray](https://github.com/mystasly48/Linq_Samples/blob/master/ToArray.cs) | 配列にして返す |
 | [ToList](https://github.com/mystasly48/Linq_Samples/blob/master/ToList.cs) | リスト配列にして返す |
 | [Union](https://github.com/mystasly48/Linq_Samples/blob/master/Union.cs) | ２つのシーケンスの和集合を返す |
