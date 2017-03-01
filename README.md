@@ -14,6 +14,7 @@
 | [ElementAtOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/ElementAtOrDefault.cs) | 指定した位置の要素を返す（なかった場合にはデフォルト値を返す） |
 | [First](https://github.com/mystasly48/Linq_Samples/blob/master/First.cs) | 最初の要素を返す |
 | [FirstOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/FirstOrDefault.cs) | 最初の要素を返す（なかった場合にはデフォルト値を返す） |
+| [Intersect](https://github.com/mystasly48/Linq_Samples/blob/master/Intersect.cs) | ２つのシーケンスの積集合を返す |
 | [Last](https://github.com/mystasly48/Linq_Samples/blob/master/Last.cs) | 最後の要素を返す |
 | [LastOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/LastOrDefault.cs) | 最後の要素を返す（なかった場合にはデフォルト値を返す） |
 | [Max](https://github.com/mystasly48/Linq_Samples/blob/master/Max.cs) | 最大の要素を返す |
