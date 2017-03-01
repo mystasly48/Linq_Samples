@@ -8,6 +8,7 @@
 | [Concat](https://github.com/mystasly48/Linq_Samples/blob/master/Concat.cs) | ２つのシーケンスを連結 |
 | [Contains](https://github.com/mystasly48/Linq_Samples/blob/master/Contains.cs) | 指定した要素が含まれているか返す |
 | [Count](https://github.com/mystasly48/Linq_Samples/blob/master/Count.cs) | 要素数を返す |
+| [DefaultIfEmpty](https://github.com/mystasly48/Linq_Samples/blob/master/DefaultIfEmpty.cs) | シーケンスが空の場合に規定値を返す |
 | [Distinct](https://github.com/mystasly48/Linq_Samples/blob/master/Distinct.cs) | 重複を除いて返す |
 | [ElementAt](https://github.com/mystasly48/Linq_Samples/blob/master/ElementAt.cs) | 指定した位置の要素を返す |
 | [ElementAtOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/ElementAtOrDefault.cs) | 指定した位置の要素を返す（なかった場合にはデフォルト値を返す） |
