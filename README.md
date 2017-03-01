@@ -12,6 +12,7 @@
 | [Distinct](https://github.com/mystasly48/Linq_Samples/blob/master/Distinct.cs) | 重複を除いて返す |
 | [ElementAt](https://github.com/mystasly48/Linq_Samples/blob/master/ElementAt.cs) | 指定した位置の要素を返す |
 | [ElementAtOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/ElementAtOrDefault.cs) | 指定した位置の要素を返す（なかった場合にはデフォルト値を返す） |
+| [Except](https://github.com/mystasly48/Linq_Samples/blob/master/Except.cs) | ２つのシーケンスの差集合を返す |
 | [First](https://github.com/mystasly48/Linq_Samples/blob/master/First.cs) | 最初の要素を返す |
 | [FirstOrDefault](https://github.com/mystasly48/Linq_Samples/blob/master/FirstOrDefault.cs) | 最初の要素を返す（なかった場合にはデフォルト値を返す） |
 | [Intersect](https://github.com/mystasly48/Linq_Samples/blob/master/Intersect.cs) | ２つのシーケンスの積集合を返す |
