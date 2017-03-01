@@ -36,5 +36,5 @@
 | [Union](https://github.com/mystasly48/Linq_Samples/blob/master/Union.cs) | ２つのシーケンスの和集合を返す |
 | [Where](https://github.com/mystasly48/Linq_Samples/blob/master/Where.cs) | フィルターする（雑） |
 
-※シーケンスとは配列やリスト配列などの総称です  
+※シーケンスとは配列やコレクションなどの総称です  
 ※猛烈に分かりやすい公式のドキュメントも[どうぞ](https://msdn.microsoft.com/ja-jp/library/system.linq.enumerable(v=vs.110).aspx)  
